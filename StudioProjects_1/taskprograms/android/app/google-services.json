@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775750028585",
+    "project_id": "fir-loginscreen-fbba6",
+    "storage_bucket": "fir-loginscreen-fbba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775750028585:android:67cd12b0f3e4c254307b38",
+        "android_client_info": {
+          "package_name": "com.example.taskprograms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775750028585-cotkpi8o1potc5obrjuain7a8u537ukv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtYNom8OGX_VP364wv5urSaOAkupNgQsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775750028585-cotkpi8o1potc5obrjuain7a8u537ukv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
